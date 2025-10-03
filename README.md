@@ -3,6 +3,15 @@
 ## Overview
 Homework assignments for the course **[Algorithms in Python](https://stepik.org/course/251189/syllabus)** in the Master's program **[Machine Learning in a Digital Product](https://www.hse.ru/en/ma/mldp/)** (HSE University, Faculty of Computer Science & Avito)
 
+# 📚 Table of Contents
+
+- [Algorithms in Python](#algorithms-in-python)
+  - [Overview](#overview)
+- [📚 Table of Contents](#-table-of-contents)
+    - [🛠️ Installation](#️-installation)
+    - [Homework 1](#homework-1)
+    - [Homework 2](#homework-2)
+
 ### 🛠️ Installation
 
 > **Note:** This project requires **Python 3.11.12**.
@@ -53,3 +62,7 @@ uv pip install -r pyproject.toml
 ### Homework 1
 
 All tasks and their solutions are located in the [`homework_1`](./homework_1/) folder
+
+### Homework 2
+
+All tasks and their solutions are located in the [`homework_2`](./homework_2/) folder
