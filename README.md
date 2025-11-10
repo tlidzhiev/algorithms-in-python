@@ -12,6 +12,7 @@ Homework assignments for the course **[Algorithms in Python](https://stepik.org/
     - [Homework 1](#homework-1)
     - [Homework 2](#homework-2)
     - [Homework 3](#homework-3)
+    - [Homework 5](#homework-5)
 
 ### 🛠️ Installation
 
@@ -71,3 +72,11 @@ All tasks and their solutions are located in the [`homework_2`](./homework_2/) f
 ### Homework 3
 
 All tasks and their solutions are located in the [`homework_3`](./homework_3/) folder
+
+### Homework 4
+
+Missing...
+
+### Homework 5
+
+All tasks and their solutions are located in the [`homework_5`](./homework_5/) folder
