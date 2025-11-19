@@ -86,7 +86,7 @@ All tasks and their solutions are located in the [`homework_5`](./homework_5/) f
 
 ### Homework 6
 
-Missing...
+All tasks and their solutions are located in the [`homework_5`](./homework_6/) folder
 
 ### Homework 7
 
